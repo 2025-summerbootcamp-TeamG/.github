@@ -1,1 +1,1 @@
-# .github
+# 2025 Summer BootCamp TeamG
