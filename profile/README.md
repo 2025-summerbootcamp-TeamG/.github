@@ -1,7 +1,7 @@
 <h2 align="center">2025 Summer Bootcamp Team G</h2>
-<p align="center">
+<h3 align="center">
   🎟️ 티켓 리셀 방지 서비스
-</p>
+</h3>
 <p align="center">
   <img width="800" src="https://github.com/user-attachments/assets/your-image-link.png" alt="Ticketaka Logo">
 </p>
@@ -16,14 +16,14 @@
 * [ERD](#-erd)
 * [Tech Stack](#-tech-stack)
 * [How to start](#-how-to-start)
-* [Members](#members)
+* [Members](#-members)
 
 
 ## ✏️ Introduction
 ### Medium  
 > 📄 [Medium 글 주소](https://medium.com/...)
 
-
+티켓 리셀을 방지하기 위해 얼굴 인식 기능을 도입한 서비스입니다.
 ## 📈 Workflow
 저희 서비스를 쉽게 이해할 수 있도록 돕는 워크플로우입니다.
 
@@ -33,11 +33,16 @@
 
 
 ## 🖥 System Architecture
-(시스템 아키텍처 다이어그램 이미지)
+
+<img width="983" height="553" alt="아키텍처1" src="https://github.com/user-attachments/assets/423d7655-7a7d-4753-bcd3-2b51ea0c2ffe" />
+
+<img width="1480" height="826" alt="아키텍처2" src="https://github.com/user-attachments/assets/95367dc2-7d78-43d2-8a83-20de7ab29b41" />
+
 
 
 ## 📊 ERD
-(ERD 이미지)
+<img width="2150" height="852" alt="ticket_erd (2)" src="https://github.com/user-attachments/assets/ef44dbdf-4fed-4cf8-b363-d5332f14d0d6" />
+
 
 
 ## 🛠 Tech Stack
