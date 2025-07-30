@@ -81,7 +81,7 @@
 </br>
 </br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1116d2ff-cd6d-417b-b582-41ee50d6f339" alt="상세정보" />
+  <img src="https://github.com/user-attachments/assets/65852b13-c44f-4f97-ad1f-5ded0368812f" alt="상세정보" />
 </p>
 
 > 내 티켓 화면입니다.
