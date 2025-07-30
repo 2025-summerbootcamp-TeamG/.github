@@ -74,8 +74,16 @@
 ### cAdvisor
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/이미지1" width="400"/></td>
-    <td><img src="https://github.com/user-attachments/assets/이미지2" width="400"/></td>
+    <td width="50%">
+      <img src="https://github.com/user-attachments/assets/bdbce0e6-f247-4aa1-9c69-6851fd43647d" 
+           alt="cAdvisor 1"
+           style="width: 100%; height: auto;" />
+    </td>
+    <td width="50%">
+      <img src="https://github.com/user-attachments/assets/2849fe91-5aad-41d3-8440-b5253693d802" 
+           alt="cAdvisor 2"
+           style="width: 100%; height: auto;" />
+    </td>
   </tr>
 </table>
 
@@ -83,8 +91,25 @@
 ### Django
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/이미지3" width="400"/></td>
-    <td><img src="https://github.com/user-attachments/assets/이미지4" width="400"/></td>
+    <td><img width="1909" height="768" alt="스크린샷 2025-07-31 오전 1 40 11" src="https://github.com/user-attachments/assets/e8601911-0006-43ca-a7a0-75d3d0b0b827" /></td>
+  </tr>
+</table>
+
+### cAdvisor
+<table>
+  <tr>
+    <td width="50%">
+      <img 
+        src="https://github.com/user-attachments/assets/694afdd0-c839-4cbb-9e4c-b0e3393ec3aa" 
+        alt="node_exporter 1"
+        style="width: 100%; height: auto;" />
+    </td>
+    <td width="50%">
+      <img 
+        src="https://github.com/user-attachments/assets/f8a840a4-f4c1-46b0-95a8-3b96e7bbb252" 
+        alt="node_exporter 2"
+        style="width: 100%; height: auto;" />
+    </td>
   </tr>
 </table>
 
@@ -150,6 +175,7 @@
         <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=black">
         <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=black">
         <img src="https://img.shields.io/badge/cAdvisor-1478FF?style=for-the-badge&logo=cAdvisor&Color=black">
+        <img src="https://img.shields.io/badge/Node_EXPORTER-0?style=for-the-badge&logo=cAdvisor&Color=black">
       </td>
     </tr>
     <tr>
