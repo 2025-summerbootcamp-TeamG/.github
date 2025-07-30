@@ -4,7 +4,7 @@
 </h3>
 </br>
 <p align="center">
-  <img width="1309" height="735" alt="스크린샷 2025-07-30 오후 2 51 15" src="https://github.com/user-attachments/assets/330f0ea0-5721-4a00-9e9e-4e7de198c084" />
+  <img width="1302" height="729" alt="스크린샷 2025-07-30 오후 2 56 22" src="https://github.com/user-attachments/assets/3fc7426c-a384-49a2-8ca2-39be7cc6cbc6" />
 </p>
 
 <br>
