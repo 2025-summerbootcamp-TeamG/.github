@@ -36,11 +36,10 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6ad1449c-74cd-4552-9aaf-39ff944916a7" alt="홈화면+인기티켓스크롤" />
 </p>
-</br>
 
 > 홈화면과 인기 티켓 화면입니다.
 
-</br>사용자는 인기순으로 정렬된 행사 목록을 조회할 수 있습니다.
+사용자는 인기순으로 정렬된 행사 목록을 조회할 수 있습니다.
 </br>
 </br>
 <p align="center">
