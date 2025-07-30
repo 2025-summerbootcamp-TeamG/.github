@@ -33,38 +33,72 @@
 
 
 ## 🎥 Demo
-![홈화면+인기티켓스크롤](https://github.com/user-attachments/assets/6ad1449c-74cd-4552-9aaf-39ff944916a7)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6ad1449c-74cd-4552-9aaf-39ff944916a7" alt="홈화면+인기티켓스크롤" />
+</p>
 </br>
-홈화면과 인기 티켓 화면입니다.
+> 홈화면과 인기 티켓 화면입니다.
+사용자는 인기순으로 정렬된 행사 목록을 조회할 수 있습니다.
 </br>
-![행사선택-좌석선택](https://github.com/user-attachments/assets/af22e935-7fcc-4f56-ac2c-cd9d6bb1775b)
 </br>
-티켓 구매 과정입니다.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/af22e935-7fcc-4f56-ac2c-cd9d6bb1775b" alt="행사선택-좌석선택" />
+</p>
 </br>
-![결제하는거](https://github.com/user-attachments/assets/e81705f6-0341-43c7-8b4d-bef7b739d151)
+> 티켓 구매 과정입니다.
+원하는 행사의 시간대와 좌석을 선택하고 결제하기 버튼을 누릅니다.
 </br>
-티켓 결제 화면입니다.
 </br>
-![생체인식+얼굴등록](https://github.com/user-attachments/assets/4ac0fc88-15dd-4789-b7f8-e0cbb5013e5f)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e81705f6-0341-43c7-8b4d-bef7b739d151" alt="결제하는거" />
+</p>
 </br>
-생체 인식 후 얼굴을 등록합니다.
+> 티켓 결제 화면입니다.
+결제 수단을 설정하고 결제 정보를 입력하여 결제를 완료합니다.
 </br>
-![동행자등록](https://github.com/user-attachments/assets/0ea42669-f287-4920-8d5d-a3147fc4e11c)
 </br>
-동행자가 있다면 앱 내 아이디를 통해 티켓을 공유할 수 있습니다.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4ac0fc88-15dd-4789-b7f8-e0cbb5013e5f" alt="생체인식+얼굴등록" />
+</p>
 </br>
-![상세정보](https://github.com/user-attachments/assets/0cef1296-f1dc-44f6-926b-d594d1241ee1)
+> 생체 인식 후 얼굴을 등록합니다.
+생체 인식을 통해 본인임을 확인한 후 얼굴 등록을 실시합니다.
+등록된 얼굴의 사람만 이 티켓을 이용할 수 있습니다.
 </br>
-내 티켓 페이지에서 티켓들의 상세정보를 볼 수 있습니다.
 </br>
-![얼굴 인증](https://github.com/user-attachments/assets/d2ec04e8-d9ab-4e0f-a235-a9fa528c6e53)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b7a91944-900f-4f45-8ffa-9152dd888eea" alt="동행자등록" />
+</p>
 </br>
-행사 입장 전 얼굴로 본인 인증을 합니다.
+> 동행자 등록 화면입니다.
+티켓을 여러 장 구매한 경우 앱 내 아이디를 통해 동행자에게 티켓을 공유할 수 있습니다.
+티켓을 공유 받은 사람 또한 얼굴을 등록해야 합니다.
 </br>
-![QR코드](https://github.com/user-attachments/assets/6e835f7a-f33c-4010-924d-eafbc5f9fd0c)
 </br>
-입장을 위한 큐알 코드가 생성됩니다.
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1116d2ff-cd6d-417b-b582-41ee50d6f339" alt="상세정보" />
+</p>
+</br>
+> 내 티켓 화면입니다.
+내가 소유하고 있는 티켓들의 상세정보를 확인 할 수 있습니다.
+</br>
+</br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d2ec04e8-d9ab-4e0f-a235-a9fa528c6e53" alt="얼굴인증" />
+</p>
+</br>
+> 얼굴 인증 화면입니다.
+입장하기 전 얼굴 인증을 통해 티켓을 활성화합니다.
+</br>
+</br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6e835f7a-f33c-4010-924d-eafbc5f9fd0c" alt="QR코드" />
+</p>
+</br>
+> QR 코드 화면입니다.
+해당 QR 코드는 행사 관계자가 최종 확인하여 입장할 수 있습니다.
+</br>
+</br>
 ## 📍 System Architecture
 
 <img width="983" height="553" alt="아키텍처1" src="https://github.com/user-attachments/assets/423d7655-7a7d-4753-bcd3-2b51ea0c2ffe" />
