@@ -2,8 +2,9 @@
 <h3 align="center">
   🎟️ 티켓 리셀 방지 서비스
 </h3>
+</br>
 <p align="center">
-  <img width="800" src="https://github.com/user-attachments/assets/your-image-link.png" alt="Ticketaka Logo">
+  <img width="1309" height="735" alt="스크린샷 2025-07-30 오후 2 51 15" src="https://github.com/user-attachments/assets/330f0ea0-5721-4a00-9e9e-4e7de198c084" />
 </p>
 
 <br>
