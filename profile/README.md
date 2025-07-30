@@ -71,16 +71,6 @@
 </br>
 </br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b7a91944-900f-4f45-8ffa-9152dd888eea" alt="동행자등록" />
-</p>
-
-> 동행자 등록 화면입니다.
-
-티켓을 여러 장 구매한 경우 앱 내 아이디를 통해 동행자에게 티켓을 공유할 수 있습니다.</br>
-티켓을 공유 받은 사람 또한 얼굴을 등록해야 합니다.
-</br>
-</br>
-<p align="center">
   <img src="https://github.com/user-attachments/assets/ce4c4c08-68cd-475d-a336-fd5c532561b1" alt="스푸핑감지" />
 </p>
 
@@ -88,6 +78,16 @@
 
 스푸핑 감지 AI를 통해서 화면에 나타난 얼굴이 실제 얼굴인지 확인합니다.</br>
 사진이나 화면을 통한 위조된 이미지인지 판별합니다.
+</br>
+</br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b7a91944-900f-4f45-8ffa-9152dd888eea" alt="동행자등록" />
+</p>
+
+> 동행자 등록 화면입니다.
+
+티켓을 여러 장 구매한 경우 앱 내 아이디를 통해 동행자에게 티켓을 공유할 수 있습니다.</br>
+티켓을 공유 받은 사람 또한 얼굴을 등록해야 합니다.
 </br>
 </br>
 <p align="center">
