@@ -15,6 +15,7 @@
 * [Demo](#-demo)
 * [System Architecture](#-system-architecture)
 * [ERD](#-erd)
+* [Monitoring](#-monitoring)
 * [Tech Stack](#-tech-stack)
 * [How to start](#-how-to-start)
 * [Members](#-members)
@@ -27,13 +28,15 @@
 티켓 리셀을 방지하기 위해 얼굴 인식 기능을 도입한 서비스입니다.
 ## 📈 Workflow
 저희 서비스를 쉽게 이해할 수 있도록 돕는 워크플로우입니다.
+</br>
+<img width="958" height="463" alt="스크린샷 2025-07-30 오후 2 57 29" src="https://github.com/user-attachments/assets/6fecd9f9-f215-43ed-9360-3b8a86f45f40" />
 
 
 ## 🎥 Demo
 (데모 GIF 또는 영상 링크)
 
 
-## 🖥 System Architecture
+## 📍 System Architecture
 
 <img width="983" height="553" alt="아키텍처1" src="https://github.com/user-attachments/assets/423d7655-7a7d-4753-bcd3-2b51ea0c2ffe" />
 
@@ -44,7 +47,7 @@
 ## 📊 ERD
 <img width="2150" height="852" alt="ticket_erd (2)" src="https://github.com/user-attachments/assets/ef44dbdf-4fed-4cf8-b363-d5332f14d0d6" />
 
-
+## 🖥️ Monitoring
 
 ## 🛠 Tech Stack
 <div align="center">
