@@ -58,34 +58,6 @@
   </tr>
 </table>
 
----
-
-### Django
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/이미지3" width="400"/></td>
-    <td><img src="https://github.com/user-attachments/assets/이미지4" width="400"/></td>
-  </tr>
-</table>
-
----
-
-### Sentry
-<table>
-  <tr>
-    <td><img src=<img width="1422" height="769" alt="스크린샷 2025-07-31 오전 12 34 28" src="https://github.com/user-attachments/assets/693aac11-1396-4011-8857-6aadcc8b8170" />
-"" width="400"/></td>
-  </tr>
-</table>
-
-### 🖥cAdvisor
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/이미지1" width="400"/></td>
-    <td><img src="https://github.com/user-attachments/assets/이미지2" width="400"/></td>
-  </tr>
-</table>
-
 
 ### Django
 <table>
@@ -97,9 +69,8 @@
 
 ### Sentry
 <table>
-  <tr>![Uploading 스크린샷 2025-07-31 오전 12.34.28.png…]()
-
-    <td><img src="" width="400"/></td>
+  <tr>
+    <td><img width="1422" height="769" alt="스크린샷 2025-07-31 오전 12 34 28" src="https://github.com/user-attachments/assets/4886631c-2214-4e29-b1b7-921ee893922f" /></td>
   </tr>
 </table>
 
