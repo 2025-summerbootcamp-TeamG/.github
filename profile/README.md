@@ -1,4 +1,4 @@
-<h2 align="center">2025 Summer Bootcamp Team G</h2>
+![QR코드](https://github.com/user-attachments/assets/3173e30b-3449-4d3b-95c3-40f4aeefc35e)<h2 align="center">2025 Summer Bootcamp Team G</h2>
 <h3 align="center">
   🎟️ 티켓 리셀 방지 서비스
 </h3>
@@ -33,8 +33,29 @@
 
 
 ## 🎥 Demo
-(데모 GIF 또는 영상 링크)
-
+![홈화면+인기티켓스크롤](https://github.com/user-attachments/assets/d2fc9701-4584-45df-8ab2-0d3ccb8a45b8)
+홈화면과 인기 티켓 화면입니다.
+</br>
+![행사선택-좌석선택](https://github.com/user-attachments/assets/96bfdebf-fed9-4ae1-8475-f9ef83169b67)
+티켓 구매 과정입니다.
+</br>
+![결제하는거](https://github.com/user-attachments/assets/f9409c19-9354-49df-8a8a-f8e960ea1e18)
+티켓 결제 화면입니다.
+</br>
+![생체인식+얼굴등록](https://github.com/user-attachments/assets/11ecae24-5692-4d72-b7f1-07c620961d0d)
+생체 인식 후 얼굴을 등록합니다.
+</br>
+![동행자등록](https://github.com/user-attachments/assets/f06e0bd5-6a8d-4c4a-bf6c-6969820f39ef)
+동행자가 있다면 앱 내 아이디를 통해 티켓을 공유할 수 있습니다.
+</br>
+![상세정보](https://github.com/user-attachments/assets/797eb2c8-4f6a-4f52-bd54-a61b13e3d231)
+내 티켓 페이지에서 티켓들의 상세정보를 볼 수 있습니다.
+</br>
+![얼굴 인증](https://github.com/user-attachments/assets/225c9f89-68c6-441e-812e-57208e4508ed)
+행사 입장 전 얼굴로 본인 인증을 합니다.
+</br>
+![QR코드](https://github.com/user-attachments/assets/8dbeb7c3-e58d-428a-ae63-191ded83989d)
+입장을 위한 큐알 코드가 생성됩니다.
 
 ## 📍 System Architecture
 
