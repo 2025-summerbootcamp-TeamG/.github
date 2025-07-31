@@ -271,8 +271,7 @@ cd your-repo</code></pre>
   <li>
     <h3>Install dependencies</h3>
     <pre><code>npm install
-# 또는
-yarn install</code></pre>
+</code></pre>
   </li>
 
   <li>
@@ -296,7 +295,6 @@ cd ..</code></pre>
     <h3>Run the development server</h3>
     <pre><code>npx expo start</code></pre>
     <ul>
-      <li>📱 <b>iOS 시뮬레이터 실행:</b> <code>i</code></li>
       <li>🔗 <b>실기기 실행:</b> Expo Go 앱으로 QR 코드 스캔</li>
     </ul>
   </li>
@@ -322,13 +320,6 @@ npx expo start -c</code></pre>
 </ol>
 
 <hr />
-
-<h3>✅ Troubleshooting</h3>
-<ul>
-  <li>iOS 빌드 실패 시: <code>cd ios && pod install --repo-update</code></li>
-  <li>Android 빌드 오류 시: <code>cd android && ./gradlew clean</code></li>
-  <li>캐시 문제 발생 시: <code>npx expo start -c</code></li>
-</ul>
 
 ## 🧑‍💻 Members
 
