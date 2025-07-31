@@ -34,7 +34,7 @@
 
 ## 🎥 Demo
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6ad1449c-74cd-4552-9aaf-39ff944916a7" alt="홈화면+인기티켓스크롤" />
+  <img src="https://github.com/user-attachments/assets/18cc0e86-f9a3-47fa-8d0d-ec1176e07f63" alt="홈화면+인기티켓스크롤" />
 </p>
 
 > 홈화면과 인기 티켓 화면입니다.
@@ -43,7 +43,7 @@
 </br>
 </br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/af22e935-7fcc-4f56-ac2c-cd9d6bb1775b" alt="행사선택-좌석선택" />
+  <img src="https://github.com/user-attachments/assets/6823fb48-35b8-42a8-8b63-1a32656653bc" alt="행사선택-좌석선택" />
 </p>
 
 > 티켓 구매 과정의 화면들입니다.
@@ -52,7 +52,7 @@
 </br>
 </br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e81705f6-0341-43c7-8b4d-bef7b739d151" alt="결제하는거" />
+  <img src="https://github.com/user-attachments/assets/0ab188e3-62b1-4c86-a1eb-d698d834b124" alt="결제하는거" />
 </p>
 
 > 티켓 결제 화면입니다.
@@ -61,7 +61,7 @@
 </br>
 </br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4ac0fc88-15dd-4789-b7f8-e0cbb5013e5f" alt="생체인식+얼굴등록" />
+  <img src="https://github.com/user-attachments/assets/5ad3c373-8195-4944-8965-988c125d6d4a" alt="생체인식+얼굴등록" />
 </p>
 
 > 생체 인식 후 얼굴을 등록합니다.
@@ -71,7 +71,7 @@
 </br>
 </br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7ebb8a8e-ce53-4189-bd18-38a5b96d33a5" />
+  <img src="https://github.com/user-attachments/assets/7ebb8a8e-ce53-4189-bd18-38a5b96d33a5" alt="스푸핑감지" />
 </p>
 
 > 실제 얼굴인지 아닌지 판별합니다.
@@ -100,7 +100,7 @@
 </br>
 </br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d2ec04e8-d9ab-4e0f-a235-a9fa528c6e53" alt="얼굴인증" />
+  <img src="https://github.com/user-attachments/assets/eaa3c074-c8e6-433d-a943-6d2889507813" alt="얼굴인증" />
 </p>
 
 > 얼굴 인증 화면입니다.
@@ -109,7 +109,7 @@
 </br>
 </br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6e835f7a-f33c-4010-924d-eafbc5f9fd0c" alt="QR코드" />
+  <img src="https://github.com/user-attachments/assets/81fce9e3-36ee-49a3-9b1f-d17d8d1abdd3" alt="QR코드" />
 </p>
 
 > QR 코드 화면입니다.
