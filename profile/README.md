@@ -71,7 +71,7 @@
 </br>
 </br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ce4c4c08-68cd-475d-a336-fd5c532561b1" alt="스푸핑감지" />
+  <img src="https://github.com/user-attachments/assets/7ebb8a8e-ce53-4189-bd18-38a5b96d33a5" />
 </p>
 
 > 실제 얼굴인지 아닌지 판별합니다.
