@@ -351,7 +351,7 @@ npx expo start -c</code></pre>
  <tr>
   <th>GitHub</th>
   <td><a href="https://github.com/juha514" target="_blank">@juha514</a></td>
-  <td><a href="https://github.com/jaeyoung" target="_blank">@jaeyoung</a></td>
+  <td><a href="https://github.com/KJY2523" target="_blank">@jaeyoung</a></td>
   <td><a href="https://github.com/hyeyeon" target="_blank">@hyeyeon</a></td>
   <td><a href="https://github.com/sangjin" target="_blank">@sangjin</a></td>
   <td><a href="https://github.com/eunseok" target="_blank">@eunseok</a></td>
