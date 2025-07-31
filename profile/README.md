@@ -293,21 +293,10 @@ cd ..</code></pre>
   </li>
 
   <li>
-    <h3>Android 설정</h3>
-    <p>
-      <a href="https://developer.android.com/studio">Android Studio</a>를 설치하고 Android SDK 및 가상 디바이스(AVD)를 설정하세요.
-    </p>
-    <p><b>환경 변수 설정:</b> <code>~/.zshrc</code> 또는 <code>~/.bashrc</code>에 추가</p>
-    <pre><code>export ANDROID_HOME=$HOME/Library/Android/sdk
-export PATH=$ANDROID_HOME/emulator:$ANDROID_HOME/platform-tools:$PATH</code></pre>
-  </li>
-
-  <li>
     <h3>Run the development server</h3>
     <pre><code>npx expo start</code></pre>
     <ul>
       <li>📱 <b>iOS 시뮬레이터 실행:</b> <code>i</code></li>
-      <li>🤖 <b>Android 에뮬레이터 실행:</b> <code>a</code></li>
       <li>🔗 <b>실기기 실행:</b> Expo Go 앱으로 QR 코드 스캔</li>
     </ul>
   </li>
@@ -315,6 +304,12 @@ export PATH=$ANDROID_HOME/emulator:$ANDROID_HOME/platform-tools:$PATH</code></pr
   <li>
     <h3>Build the app</h3>
     <p><b>iOS (Xcode 필요/ 생체인식 포함)</b></p>
+    <pre><code>
+npx expo prebuild //빌드해주기
+cd ios
+pod install
+cd ..
+npx expo start -c</code></pre>
     <p>Xcode에서 App.xcworkspace 파일을 열어 빌드해주세요</p>
     <p><b>Android</b></p>
     <pre>Expo go앱에서 실행 가능합니다.</pre>
