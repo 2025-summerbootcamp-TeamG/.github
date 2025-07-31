@@ -23,7 +23,7 @@
 
 ## ✏️ Introduction
 ### Medium  
-> 📄 [Medium 글 주소](https://medium.com/...)
+> 📄 [Ticketaka_Medium](https://medium.com/@juha.kim505/%ED%8B%B0%EC%BC%93-%EB%A6%AC%EC%85%80-%EB%B0%A9%EC%A7%80%EB%A5%BC-%EC%9C%84%ED%95%9C-%ED%8B%B0%EC%BC%93%ED%8C%85-%EC%95%B1-ticketaka-67235b14e675)
 
 티켓 리셀을 방지하기 위해 얼굴 인식 기능을 도입한 서비스입니다.
 ## 📈 Workflow
