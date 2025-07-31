@@ -33,90 +33,15 @@
 
 
 ## 🎥 Demo
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/18cc0e86-f9a3-47fa-8d0d-ec1176e07f63" alt="홈화면+인기티켓스크롤" />
-</p>
+| 기능 | 기능 |
+|------|------|
+| <img src="https://github.com/user-attachments/assets/18cc0e86-f9a3-47fa-8d0d-ec1176e07f63" alt="홈화면+인기티켓스크롤" /><br/><b>홈 + 인기 티켓</b><br/>인기순으로 정렬된 티켓 확인 가능 | <img src="https://github.com/user-attachments/assets/6823fb48-35b8-42a8-8b63-1a32656653bc" alt="행사선택-좌석선택" /><br/><b>행사 및 좌석 선택</b><br/>시간대와 좌석을 선택 |
+| <img src="https://github.com/user-attachments/assets/0ab188e3-62b1-4c86-a1eb-d698d834b124" alt="결제하는거" /><br/><b>티켓 결제</b><br/>결제 수단 및 정보 입력 | <img src="https://github.com/user-attachments/assets/5ad3c373-8195-4944-8965-988c125d6d4a" alt="생체인식+얼굴등록" /><br/><b>생체 인식 + 얼굴 등록</b><br/>본인 인증 후 얼굴 등록 |
+| <img src="https://github.com/user-attachments/assets/7ebb8a8e-ce53-4189-bd18-38a5b96d33a5" alt="스푸핑감지" /><br/><b>스푸핑 감지</b><br/>위조 이미지 탐지 AI | <img src="https://github.com/user-attachments/assets/45c97ec2-c769-4b07-86d6-65a8bd986614" alt="동행자등록" /><br/><b>동행자 등록</b><br/>공유받은 사람도 얼굴 등록 필수 |
+| <img src="https://github.com/user-attachments/assets/1f117009-9d31-45a4-8454-8e85633aa317" alt="상세정보" /><br/><b>내 티켓 상세정보</b><br/>보유한 티켓 조회 | <img src="https://github.com/user-attachments/assets/eaa3c074-c8e6-433d-a943-6d2889507813" alt="얼굴인증" /><br/><b>입장 전 얼굴 인증</b><br/>티켓 활성화 |
+| <img src="https://github.com/user-attachments/assets/81fce9e3-36ee-49a3-9b1f-d17d8d1abdd3" alt="QR코드" /><br/><b>QR 입장 인증</b><br/>최종 입장 확인 |  |
 
-> 홈화면과 인기 티켓 화면입니다.
 
-사용자는 인기순으로 정렬된 행사 목록을 조회할 수 있습니다.
-</br>
-</br>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6823fb48-35b8-42a8-8b63-1a32656653bc" alt="행사선택-좌석선택" />
-</p>
-
-> 티켓 구매 과정의 화면들입니다.
-
-원하는 행사의 시간대와 좌석을 선택하고 결제하기 버튼을 누릅니다.
-</br>
-</br>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0ab188e3-62b1-4c86-a1eb-d698d834b124" alt="결제하는거" />
-</p>
-
-> 티켓 결제 화면입니다.
-
-결제 수단을 설정하고 결제 정보를 입력하여 결제를 완료합니다.
-</br>
-</br>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5ad3c373-8195-4944-8965-988c125d6d4a" alt="생체인식+얼굴등록" />
-</p>
-
-> 생체 인식 후 얼굴을 등록합니다.
-
-생체 인식을 통해 본인임을 확인한 후 얼굴 등록을 실시합니다.</br>
-등록된 얼굴의 사람만 이 티켓을 이용할 수 있습니다.
-</br>
-</br>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/7ebb8a8e-ce53-4189-bd18-38a5b96d33a5" alt="스푸핑감지" />
-</p>
-
-> 실제 얼굴인지 아닌지 판별합니다.
-
-스푸핑 감지 AI를 통해서 화면에 나타난 얼굴이 실제 얼굴인지 확인합니다.</br>
-사진이나 화면을 통한 위조된 이미지인지 판별합니다.
-</br>
-</br>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/45c97ec2-c769-4b07-86d6-65a8bd986614" alt="동행자등록" />
-</p>
-
-> 동행자 등록 화면입니다.
-
-티켓을 여러 장 구매한 경우 앱 내 아이디를 통해 동행자에게 티켓을 공유할 수 있습니다.</br>
-티켓을 공유 받은 사람 또한 얼굴을 등록해야 합니다.
-</br>
-</br>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1f117009-9d31-45a4-8454-8e85633aa317" alt="상세정보" />
-</p>
-
-> 내 티켓 화면입니다.
-
-내가 소유하고 있는 티켓들의 상세정보를 확인 할 수 있습니다.
-</br>
-</br>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/eaa3c074-c8e6-433d-a943-6d2889507813" alt="얼굴인증" />
-</p>
-
-> 얼굴 인증 화면입니다.
-
-입장하기 전 얼굴 인증을 통해 티켓을 활성화합니다.
-</br>
-</br>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/81fce9e3-36ee-49a3-9b1f-d17d8d1abdd3" alt="QR코드" />
-</p>
-
-> QR 코드 화면입니다.
-
-해당 QR 코드는 행사 관계자가 최종 확인하여 입장할 수 있습니다.
-</br>
-</br>
 ## 📍 System Architecture
 
 <img width="983" height="553" alt="아키텍처1" src="https://github.com/user-attachments/assets/423d7655-7a7d-4753-bcd3-2b51ea0c2ffe" />
@@ -336,7 +261,7 @@ npx expo start -c</code></pre>
     <th>Profile</th>
       <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/user-attachments/assets/5a246be9-5ccf-4f5b-be65-0255b06a7481" style="width:100px;height:100px;"></td>
       <td style="text-align:center; vertical-align:middle;"><img src="https://ca.slack-edge.com/T09399RJA13-U09477HAU80-d51118ea2c9e-512" style="width:100px;height:100px;"></td>
-      <td style="text-align:center; vertical-align:middle;"><img src="" style="width:100px;height:100px;"></td>
+      <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/user-attachments/assets/169d5462-d4c7-47d1-98d9-324e80b8eccb" style="width:100px;height:100px;"></td>
       <td style="text-align:center; vertical-align:middle;"><img src="" style="width:100px;height:100px;"></td>
       <td style="text-align:center; vertical-align:middle;"><img src="" style="width:100px;height:100px;"></td>
   </tr>
@@ -352,7 +277,7 @@ npx expo start -c</code></pre>
   <th>GitHub</th>
   <td><a href="https://github.com/juha514" target="_blank">@juha514</a></td>
   <td><a href="https://github.com/KJY2523" target="_blank">@KJY2523</a></td>
-  <td><a href="https://github.com/hyeyeon" target="_blank">@hyeyeon</a></td>
+  <td><a href="https://github.com/hyyeeon" target="_blank">@hyyeeon</a></td>
   <td><a href="https://github.com/Rael0515" target="_blank">@Rael0515</a></td>
   <td><a href="https://github.com/eunseok" target="_blank">@eunseok</a></td>
 </tr>
