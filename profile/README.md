@@ -264,7 +264,8 @@
 <ol>
   <li>
     <h3>Clone the repository</h3>
-    <pre><code>git clone https://github.com/your-org/your-repo.git
+    <pre><code>git clone https://github.com/your-org/your-repo.git](https://github.com/2025-summerbootcamp-TeamG/Frontend.git
+      git clone 
 </code></pre>
   </li>
 
