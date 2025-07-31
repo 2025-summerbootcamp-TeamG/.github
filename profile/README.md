@@ -261,9 +261,79 @@
 
 
 ## 📖 How to start
-1. 리포지토리 클론
-   ```bash
-   git clone https://github.com/2025-summerbootcamp-TeamG/Frontend.git
+<ol>
+  <li>
+    <h3>Clone the repository</h3>
+    <pre><code>git clone https://github.com/your-org/your-repo.git
+cd your-repo</code></pre>
+  </li>
+
+  <li>
+    <h3>Install dependencies</h3>
+    <pre><code>npm install
+# 또는
+yarn install</code></pre>
+  </li>
+
+  <li>
+    <h3>Set up environment variables</h3>
+    <p>프로젝트 루트에 <code>.env</code> 파일을 생성하고 아래와 같이 설정합니다:</p>
+    <pre><code>API_URL=https://api.example.com
+SENTRY_DSN=your-sentry-dsn</code></pre>
+
+  <li>
+    <h3>iOS 설정 (Mac Only)</h3>
+    <p><a href="https://developer.apple.com/xcode/">Xcode</a>와 Cocoapods가 필요합니다.</p>
+    <p><b>(1) Cocoapods 설치</b></p>
+    <pre><code>sudo gem install cocoapods</code></pre>
+    <p><b>(2) Pods 설치</b></p>
+    <pre><code>cd ios
+pod install
+cd ..</code></pre>
+  </li>
+
+  <li>
+    <h3>Android 설정</h3>
+    <p>
+      <a href="https://developer.android.com/studio">Android Studio</a>를 설치하고 Android SDK 및 가상 디바이스(AVD)를 설정하세요.
+    </p>
+    <p><b>환경 변수 설정:</b> <code>~/.zshrc</code> 또는 <code>~/.bashrc</code>에 추가</p>
+    <pre><code>export ANDROID_HOME=$HOME/Library/Android/sdk
+export PATH=$ANDROID_HOME/emulator:$ANDROID_HOME/platform-tools:$PATH</code></pre>
+  </li>
+
+  <li>
+    <h3>Run the development server</h3>
+    <pre><code>npx expo start</code></pre>
+    <ul>
+      <li>📱 <b>iOS 시뮬레이터 실행:</b> <code>i</code></li>
+      <li>🤖 <b>Android 에뮬레이터 실행:</b> <code>a</code></li>
+      <li>🔗 <b>실기기 실행:</b> Expo Go 앱으로 QR 코드 스캔</li>
+    </ul>
+  </li>
+
+  <li>
+    <h3>Build the app</h3>
+    <p><b>iOS (Xcode 필요/ 생체인식 포함)</b></p>
+    <p>Xcode에서 App.xcworkspace 파일을 열어 빌드해주세요</p>
+    <p><b>Android</b></p>
+    <pre>Expo go앱에서 실행 가능합니다.</pre>
+  </li>
+
+  <li>
+    <h3>Login & Explore</h3>
+    <p>앱 실행 후 회원가입/로그인을 진행하고 기능을 체험하세요.</p>
+  </li>
+</ol>
+
+<hr />
+
+<h3>✅ Troubleshooting</h3>
+<ul>
+  <li>iOS 빌드 실패 시: <code>cd ios && pod install --repo-update</code></li>
+  <li>Android 빌드 오류 시: <code>cd android && ./gradlew clean</code></li>
+  <li>캐시 문제 발생 시: <code>npx expo start -c</code></li>
+</ul>
 
 ## 🧑‍💻 Members
 
