@@ -265,7 +265,7 @@
   <li>
     <h3>Clone the repository</h3>
     <pre><code>git clone https://github.com/your-org/your-repo.git
-cd your-repo</code></pre>
+</code></pre>
   </li>
 
   <li>
