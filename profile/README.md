@@ -81,7 +81,7 @@
 </br>
 </br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b7a91944-900f-4f45-8ffa-9152dd888eea" alt="동행자등록" />
+  <img src="https://github.com/user-attachments/assets/45c97ec2-c769-4b07-86d6-65a8bd986614" alt="동행자등록" />
 </p>
 
 > 동행자 등록 화면입니다.
@@ -91,7 +91,7 @@
 </br>
 </br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/65852b13-c44f-4f97-ad1f-5ded0368812f" alt="상세정보" />
+  <img src="https://github.com/user-attachments/assets/1f117009-9d31-45a4-8454-8e85633aa317" alt="상세정보" />
 </p>
 
 > 내 티켓 화면입니다.
