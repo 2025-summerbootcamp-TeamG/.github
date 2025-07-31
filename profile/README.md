@@ -350,3 +350,11 @@ npx expo start -c</code></pre>
     <td>Fullstack</td>
   </tr>
   <tr>
+    <th>GitHub</th>
+    <td><a href="https://github.com/juha514">github.com/Juha Kim</a></td>
+    <td><a href="https://github.com/jaeyoung">github.com/j=Jaeyoung Kim</a></td>
+    <td><a href="https://github.com/hyeyeon">github.com/Hyeyeon Kim</a></td>
+    <td><a href="https://github.com/sangjin">github.com/Sangjin Ryu</a></td>
+    <td><a href="https://github.com/eunseok">github.com/Eunseok Yoon</a></td>
+  </tr>
+  <tr>
