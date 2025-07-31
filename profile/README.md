@@ -319,7 +319,6 @@ npx expo start -c</code></pre>
     <p>앱 실행 후 회원가입/로그인을 진행하고 기능을 체험하세요.</p>
   </li>
 </ol>
-
 <hr />
 
 ## 🧑‍💻 Members
