@@ -33,12 +33,13 @@
 
 
 ## 🎥 Demo
-| 기능 | 기능 | 기능 |
-|------|------|------|
-| <img src="https://github.com/user-attachments/assets/18cc0e86-f9a3-47fa-8d0d-ec1176e07f63" alt="홈화면+인기티켓스크롤" width="296" height="600"/><br/><b>홈 + 인기 티켓</b><br/>인기순으로 정렬된 티켓 확인 가능 | <img src="https://github.com/user-attachments/assets/6823fb48-35b8-42a8-8b63-1a32656653bc" alt="행사선택-좌석선택" width="296" height="600"/><br/><b>행사 및 좌석 선택</b><br/>시간대와 좌석을 선택 | <img src="https://github.com/user-attachments/assets/0ab188e3-62b1-4c86-a1eb-d698d834b124" alt="결제하는거" width="296" height="600"/><br/><b>티켓 결제</b><br/>결제 수단 및 정보 입력 |
-| <img src="https://github.com/user-attachments/assets/5ad3c373-8195-4944-8965-988c125d6d4a" alt="생체인식+얼굴등록" width="296" height="600"/><br/><b>생체 인식 + 얼굴 등록</b><br/>본인 인증 후 얼굴 등록 | <img src="https://github.com/user-attachments/assets/7ebb8a8e-ce53-4189-bd18-38a5b96d33a5" alt="스푸핑감지" width="296" height="600"/><br/><b>스푸핑 감지</b><br/>위조 이미지 탐지 AI | <img src="https://github.com/user-attachments/assets/45c97ec2-c769-4b07-86d6-65a8bd986614" alt="동행자등록" width="296" height="600"/><br/><b>동행자 등록</b><br/>공유받은 사람도 얼굴 등록 필수 |
-| <img src="https://github.com/user-attachments/assets/1f117009-9d31-45a4-8454-8e85633aa317" alt="상세정보" width="296" height="600"/><br/><b>내 티켓 상세정보</b><br/>보유한 티켓 조회 | <img src="https://github.com/user-attachments/assets/eaa3c074-c8e6-433d-a943-6d2889507813" alt="얼굴인증" width="296" height="600"/><br/><b>입장 전 얼굴 인증</b><br/>티켓 활성화 | <img src="https://github.com/user-attachments/assets/81fce9e3-36ee-49a3-9b1f-d17d8d1abdd3" alt="QR코드" width="296" height="600"/><br/><b>QR 입장 인증</b><br/>최종 입장 확인 |
-
+| 기능 | 기능 |
+|------|------|
+| <img src="https://github.com/user-attachments/assets/18cc0e86-f9a3-47fa-8d0d-ec1176e07f63" alt="홈화면+인기티켓스크롤" /><br/><b>홈 + 인기 티켓</b><br/>인기순으로 정렬된 티켓 확인 가능 | <img src="https://github.com/user-attachments/assets/6823fb48-35b8-42a8-8b63-1a32656653bc" alt="행사선택-좌석선택" /><br/><b>행사 및 좌석 선택</b><br/>시간대와 좌석을 선택 |
+| <img src="https://github.com/user-attachments/assets/0ab188e3-62b1-4c86-a1eb-d698d834b124" alt="결제하는거" /><br/><b>티켓 결제</b><br/>결제 수단 및 정보 입력 | <img src="https://github.com/user-attachments/assets/5ad3c373-8195-4944-8965-988c125d6d4a" alt="생체인식+얼굴등록" /><br/><b>생체 인식 + 얼굴 등록</b><br/>본인 인증 후 얼굴 등록 |
+| <img src="https://github.com/user-attachments/assets/7ebb8a8e-ce53-4189-bd18-38a5b96d33a5" alt="스푸핑감지" /><br/><b>스푸핑 감지</b><br/>위조 이미지 탐지 AI | <img src="https://github.com/user-attachments/assets/45c97ec2-c769-4b07-86d6-65a8bd986614" alt="동행자등록" /><br/><b>동행자 등록</b><br/>공유받은 사람도 얼굴 등록 필수 |
+| <img src="https://github.com/user-attachments/assets/1f117009-9d31-45a4-8454-8e85633aa317" alt="상세정보" /><br/><b>내 티켓 상세정보</b><br/>보유한 티켓 조회 | <img src="https://github.com/user-attachments/assets/eaa3c074-c8e6-433d-a943-6d2889507813" alt="얼굴인증" /><br/><b>입장 전 얼굴 인증</b><br/>티켓 활성화 |
+| <img src="https://github.com/user-attachments/assets/81fce9e3-36ee-49a3-9b1f-d17d8d1abdd3" alt="QR코드" /><br/><b>QR 입장 인증</b><br/>최종 입장 확인 |  |
 
 
 ## 📍 System Architecture
