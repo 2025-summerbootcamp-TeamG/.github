@@ -260,7 +260,7 @@ npx expo start -c</code></pre>
   <tr>
     <th>Profile</th>
       <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/user-attachments/assets/5a246be9-5ccf-4f5b-be65-0255b06a7481" style="width:100px;height:100px;"></td>
-      <td style="text-align:center; vertical-align:middle;"><img src="https://ca.slack-edge.com/T09399RJA13-U09477HAU80-d51118ea2c9e-512" style="width:100px;height:100px;"></td>
+      <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/user-attachments/assets/41a1a9c3-6185-4bde-b143-98fc9d09c8f4" style="width:100px;height:100px;"></td>
       <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/user-attachments/assets/169d5462-d4c7-47d1-98d9-324e80b8eccb" style="width:100px;height:100px;"></td>
       <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/user-attachments/assets/ae273739-df03-448f-a654-721a33a0eefb" style="width:100px;height:100px;"></td>
       <td style="text-align:center; vertical-align:middle;">
@@ -280,6 +280,6 @@ npx expo start -c</code></pre>
   <td><a href="https://github.com/KJY2523" target="_blank">@KJY2523</a></td>
   <td><a href="https://github.com/hyyeeon" target="_blank">@hyyeeon</a></td>
   <td><a href="https://github.com/Rael0515" target="_blank">@Rael0515</a></td>
-  <td><a href="https://github.com/eunseok" target="_blank">@eunseokYoon</a></td>
+  <td><a href="https://github.com/eunseokYoon" target="_blank">@eunseokYoon</a></td>
 </tr>
   <tr>
