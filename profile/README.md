@@ -262,7 +262,7 @@ npx expo start -c</code></pre>
       <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/user-attachments/assets/5a246be9-5ccf-4f5b-be65-0255b06a7481" style="width:100px;height:100px;"></td>
       <td style="text-align:center; vertical-align:middle;"><img src="https://ca.slack-edge.com/T09399RJA13-U09477HAU80-d51118ea2c9e-512" style="width:100px;height:100px;"></td>
       <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/user-attachments/assets/169d5462-d4c7-47d1-98d9-324e80b8eccb" style="width:100px;height:100px;"></td>
-      <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/user-attachments/assets/848a5b35-ced3-42f7-97cb-deada18365f4" style="width:100px;height:100px;"></td>
+      <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/user-attachments/assets/ae273739-df03-448f-a654-721a33a0eefb" style="width:100px;height:100px;"></td>
       <td style="text-align:center; vertical-align:middle;">
   <img src="https://github.com/user-attachments/assets/eddbbeab-4152-4ae9-9654-d28412cf0c04" style="width:100px; height:100px;"></td>
   </tr>
